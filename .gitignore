@@ -5,3 +5,5 @@ venv/
 .env
 bot.log
 *.log
+repomix-output.xml
+push_to_github.ps1
